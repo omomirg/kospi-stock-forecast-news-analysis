@@ -71,7 +71,7 @@ KOSPI에서 하루 변동률이 가장 큰 종목을 골라 ARIMA로 종가를 �
 
 | 파일 | 내용 |
 |---|---|
-| `data_collection.ipynb` | KOSPI 업종별 종목 분류, 캔들차트 시각화, 백테스팅(backtrader) 스터디 |
+| `주가그래프 시각화.ipynb` | KOSPI 업종별 종목 분류, 캔들차트 시각화, 백테스팅(backtrader) 스터디 |
 | `ARIMA.ipynb` | 변동률 상위 5개 종목 ARIMA 예측, MAPE 평가, OBV와 MFI 매매 신호 |
 | `LSTM.ipynb` | LSTM 주가 예측 시도 |
 | `Montecarlo.ipynb` | GBM 기반 몬테카를로 시뮬레이션 스터디 (삼성전자) |
